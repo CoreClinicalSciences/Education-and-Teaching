@@ -1,0 +1,97 @@
+---
+title: "UBC RALS Course Overview: Intro to Adaptive Trial Designs"
+date: "November 07, 2022"
+format: pdf
+---
+
+
+# Introduction to Regulatory Affairs Micro-Credential Course Instructor Content Template 
+
+## **Instructor Name**: Jay Park
+
+**Instructor Biography**: Jay Park is a clinical trialist and a consultant offering services through Core Clinical Sciences (. He is an Assistant Professor in the Department of Health Research Methods, Evidence and Impact, Faculty of Health Sciences at McMaster University. Jay provides consulting services for adaptive trial designs, master protocols, and other complex innovative trial design for professionals in academia, government, and pharmaceutical and biotech industries. He has previously acted as the Director of Trials Research for Cytel Inc and as an Associate Director of Trials Research at MTEK Sciences. He has  provided consulting services to the Bill and Melinda Gates Foundation related to trial simulation and planning in clinical trial investments made by the Foundation. He was part of the Master Protocol resources development by the Clinical Trials Transformation Initiative (CTTI), a public-private partnership created in 2007 between the United States Food and Drug Administration (FDA) and Duke University. He wrote a book with the Cambridge University Press titled, “Introduction to Adaptive Trial Designs and Master Protocols” that will become available in 2023. 
+
+# Lecture Topic: Adaptive trial designs
+
+## What to Expect
+
+Randomized clinical trials are the gold standard for testing the effect of a novel intervention. When we think of clinical trials, we mostly imagine ‘one shot’ two-arm trials. These conventional trials evaluating a single intervention against placebo or some standard-of-care as a control group are designed with a fixed sample size that is predetermined at the design stage based on a variety of assumptions, and the statistical analysis occurs once after the recruitment reaches this predetermined target. Clinical trials, especially for these conventional trial designs that do not allow for modifications during the trial, can be expensive, time consuming, and can expose subjects to interventions that are potentially harmful and/or ineffective. There is another approach to clinical trials that can be broadly classified as “adaptive trial designs.” Adaptive trial designs refer to a type of design that allows for pre-specified modifications to trial designs during the trial in response to accumulated trial data. For many research questions, by being able to respond to the trial data mid-trial, adaptive trial design can have important efficiencies over fixed sample trial designs. However, they can be more challenging to design and execute. There are several operational and statistical challenges that must be addressed in order to preserve the integrity of the trial. This week we will discuss the principles and characteristics of adaptive designs, the advantages and disadvantages of adaptive trial designs compared to the conventional trial designs. 
+
+## Intended Learning Outcomes: 
+
+1. To discuss the value of adaptive trial designs for clinical trial research and contrast them to conventional trial designs 
+
+1. To identify the concepts and key principles of adaptive trial designs, such as pre-specified adaptations and monitoring plans
+
+1. To discuss the basics of simulation-guided trial design for adaptive trial designs
+
+## Lecture Content/Subtopics: 
+
+We recommend breaking down your lecture topic into 4-6 subtopics for ease of student access. For each subtopic, please include a text intro that can be placed on the webpage with the video. Please see attached example for some different format ideas, however, you do not need to follow the same format. 
+
+1.	Overview of a conventional approach to clinical trial research (Fixed sample design)
+
+2.	Introduction to adaptive trial designs & common types of adaptive trial design
+
+3.	A deeper dive to group sequential designs
+
+4.	General steps to planning an adaptive clinical trial: simulation-guided design
+
+5.	 Reporting and interpretation of adaptive trial designs
+
+# Knowledge Check Questions: 
+
+1.	Which of the following statements is true of adaptive trial designs? Select all that apply
+
+      a.	They are clinical trial designs that allow for any changes to the trial design
+
+      b.	They are clinical trials that allow for planned changes to the trial design
+
+      c.	They use accumulating clinical trial data to make the decision for change
+
+      d.	In adaptive clinical trials, the principal investigator can make changes to the trial designs as they see fit 
+
+2.	What are common types of adaptive trial designs? Select all that apply
+      
+      a.	Sample size calculation
+      
+      b.	Group sequential designs
+      
+      c.	Response adaptive randomization 
+      
+      d.	Cross-over designs
+
+3.	Which of the following statements is true of conventional trial designs? Select all that apply
+
+      a.	In these trials, there are multiple statistical analyses performed throughout the trial
+      
+      b.	The trial are formally analyzed once when the trial finished recruitment and follow-up of a priori determined sample size
+      
+      c.	They have flexible sample size
+      
+      d.	They usually involve three general steps of trial design, trial conduct, and final analysis. 
+
+4.	What aspects of the trial designs can be modified in adaptive trials? Select all that apply
+      
+      a.	Sample size
+   
+      b.	Patient population
+      
+      c.	Allocation ratio 
+      
+      d.	Statistical analysis plan
+
+5.	In your own words, describe the three advantages and three disadvantages of adaptive trial designs.  
+
+# Additional Resources:
+
+- Thorlund K, Haggstrom J, Park JJ, Mills EJ. Key design considerations for adaptive clinical trials: a primer for clinicians. bmj. 2018 Mar 8;360.
+
+- University of Sheffield. A Practical Adaptive & Novel Designs and Analysis (PANDA) toolkit. https://panda.shef.ac.uk/
+
+- Pallmann P, Bedding AW, Choodari-Oskooei B, Dimairo M, Flight L, Hampson LV, Holmes J, Mander AP, Odondi LO, Sydes MR, Villar SS. Adaptive designs in clinical trials: why use them, and how to run and report them. BMC medicine. 2018 Dec;16(1):1-5.
+
+- Dimairo M, Pallmann P, Wason J, Todd S, Jaki T, Julious SA, Mander AP, Weir CJ, Koenig F, Walton MK, Nicholl JP. The Adaptive designs CONSORT Extension (ACE) statement: a checklist with explanation and elaboration guideline for reporting randomised trials that use an adaptive design. BMJ. 2020 Jun 17;369.
+
+
+
